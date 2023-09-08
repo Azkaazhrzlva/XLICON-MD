@@ -1,7 +1,7 @@
 {
                "name": "xlicon-md",
                "version": "0.0.8",
-               "description": "Multi device whatsapp bot by Samanytofficial.",
+               "description": "Multi device whatsapp bot by Azka.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -69,10 +69,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/salmanytofficial/XLICON-MD.git"
+                 "url": "git+https://github.com/Azkaazhrzlva/XLICON-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/salmanytofficial/XLICON-MD/issues"
+                 "url": "https://github.com/Azkaazhrzlva/XLICON-MD/issues"
                   },
-                 "homepage": "https://github.com/salmanytofficial/XLICON-MD#readme"
+                 "homepage": "https://github.com/Azkaazhrzlva/XLICON-MD#readme"
                   }
